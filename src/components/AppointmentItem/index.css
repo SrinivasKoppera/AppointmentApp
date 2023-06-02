@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  margin: 8px;
+}
+.appointment-container {
+  width: 250px;
+  padding: 10px;
+  border: 1px solid #b5b7c4;
+  border-radius: 10px;
+}
+.name-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.name {
+  color: #171f46;
+  font-family: 'Bree Serif';
+  font-size: 15px;
+}
+.start-btn {
+  background-color: transparent;
+  border: none;
+}
+.date {
+  font-size: 13px;
+  color: #84858f;
+}
